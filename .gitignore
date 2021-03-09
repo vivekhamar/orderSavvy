@@ -1,0 +1,8 @@
+#ignored node_module file
+/node_modules
+# /public/admin/node_modules
+
+#ignored access log file
+# /access.log
+#/config
+# /public/files
