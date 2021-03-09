@@ -4,7 +4,7 @@
 // function SQliteDB() {
 
 //     /*******************connection for the sqlite database***********************/
-//     // /home/bhumi/Desktop/jgooros_my_env/jgooros-api/jgoor/development.db
+//     
 //     let sqlitedb = new sqlite3.Database(config.db,(err) => {
 //         if(err){
 //             console.log(err);
