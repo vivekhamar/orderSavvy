@@ -1,5 +1,4 @@
 module.exports = {
-    // db: '/home/bhumi/Desktop/jgooros_my_env/jgooros-api/jgoor/development.db',
     db: 'mongodb://localhost/OrderSavvy',
     // db: '',
     mongoDBOptions: {
