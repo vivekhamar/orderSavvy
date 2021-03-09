@@ -20,8 +20,8 @@ class Email {
                 host: 'smtp.gmail.com',
                 port: 587,
                 auth: {
-                    user: "ordersavvy.ecosmob@gmail.com",
-                    pass: "neel@123"
+                    user: "",
+                    pass: ""
                 },
                 tls: { rejectUnauthorized: false },
                 debug: true
