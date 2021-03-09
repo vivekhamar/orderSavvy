@@ -1,5 +1,5 @@
 var FCM = require('fcm-node');
-var serverKey = 'AAAANw9RI6U:APA91bEANpUmIp7T3kfWBjxTdCIF6ir-vQzB24SoawaJTjPTS_wJb1WQxFuuBWMfl182aAYd8HEGS6FOzg5Moo-UNJ1j2mZaLnnYcf0Q_8LIUTROWll-cOWk4aAjkifQ0HA76conCg-z'; //put your server key here
+var serverKey = ''; //put your server key here
 var serverKeyJSON = require('../../ordersavvy-firebase-adminsdk.json') //put the generated private key path here    
 var fcm = new FCM(serverKeyJSON);
 
